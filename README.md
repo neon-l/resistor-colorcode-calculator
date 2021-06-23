@@ -1,1 +1,1 @@
-# Just run as "python colorcode.py"
+# Just run as "python3 colorcode.py"
